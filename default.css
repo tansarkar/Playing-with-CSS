@@ -1,0 +1,16 @@
+body {
+    width: 1366px;
+    height: 1024px;
+}
+
+.border-1px-solid-0x000000F {
+    border: 1px solid #000F;
+}
+
+.display-inline-block {
+    display: inline-block;
+}
+
+.margin-all-2-percent {
+    margin: 1%;
+}

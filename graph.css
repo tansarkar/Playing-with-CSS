@@ -1,0 +1,48 @@
+.div-graph-page-container {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.div-graph-primary-space {
+    height: 60%;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div-graph-left-menu-container {
+    width: 18%;
+}
+
+.div-graph-workspace-container {
+    width: 62%;
+}
+
+.div-graph-right-menu-container {
+    width: 10%;
+}
+
+
+
+.div-graph-secondary-space {
+    height: 25%;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div-graph-bottom-menu-container {
+    width: 90%;
+}
+
+
+
+.graph-primary-space-child-height {
+    height: 97%;
+}
+
+.graph-secondary-space-child-height {
+    height: 97%;
+}
